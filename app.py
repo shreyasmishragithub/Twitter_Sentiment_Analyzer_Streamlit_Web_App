@@ -9,13 +9,15 @@ import re
 import matplotlib.pyplot as plt
 from PIL import Image
 import seaborn as sns
-from dotenv import load_dotenv
-import os
-load_dotenv()
-consumerKey=os.getenv("consumerKeY")
-consumerSecret=os.getenv("consumerSecreT")
-accessToken=os.getenv("accessTokeN")
-accessTokenSecret=os.getenv("accessTokenSecreT")
+
+
+
+consumerKey ="pIWnHalR0igoqEiSAMxeAm1X1"
+consumerSecret ="adjGc4opM3sgTwhyKw63mAQ9Q9kHBwsxg78WFVy2zdeuKGf2em"
+accessToken ="1546748360925024256-AYSgGj2lYpp3HOAo4b9gHorX3sBpZS"
+accessTokenSecret ="8EVy9eP5lYxgAU4VrUWXKGKQGBh98QniEacDCI1AOiRzh"
+
+
 #Create the authentication object
 authenticate = tweepy.OAuthHandler(consumerKey, consumerSecret) 
     
