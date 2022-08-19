@@ -1,6 +1,6 @@
 # Tweet-Analyzer
 
-Web App Link : https://shreyasmishragithub-twitter-sentiment-analyzer-strea-app-cyav8i.streamlitapp.com/
+Web App Link : https://shre11-tw-app-zmodmk.streamlitapp.com/
 
 
 Images:
