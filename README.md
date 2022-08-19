@@ -2,7 +2,7 @@
 
 Web App Link : https://tweet-analyzer-tool.herokuapp.com/
 
-This is a cool web app integrated with twitter which takes the twitter handel as as input and does :
+This is a Web app integrated with twitter which takes the twitter handel as as input and does :
 
 1.Analyze the tweets of your favourite Personalities
 
@@ -18,6 +18,12 @@ Cleans the text
 1. Analyzes Subjectivity of tweets and adds an additional column for it
 2. Analyzes Polarity of tweets and adds an additional column for it
 3. Analyzes Sentiments of tweets and adds an additional column for it
+
+Images:
+![image](https://user-images.githubusercontent.com/56075324/185561540-15e4beab-461e-44ed-9d80-d1ea84df7056.png)
+![image](https://user-images.githubusercontent.com/56075324/185561726-3afc9a83-4daf-4bec-a72e-95f5b97fb5bd.png)
+![image](https://user-images.githubusercontent.com/56075324/185561821-7ea4e479-db61-4299-a432-3983ecbf5535.png)
+
 
 
 This respository contains all the files for end to end model building and deployment of tweet analyzer web app
