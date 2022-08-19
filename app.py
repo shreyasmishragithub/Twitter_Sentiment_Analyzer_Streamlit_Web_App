@@ -8,7 +8,7 @@ import numpy as np
 import re
 import matplotlib.pyplot as plt
 from PIL import Image
-import seaborn as snsimport
+import seaborn as sns
 from dotenv import load_dotenv
 import os
 load_dotenv()
