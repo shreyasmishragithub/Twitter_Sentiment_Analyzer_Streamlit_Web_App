@@ -21,9 +21,8 @@ Performs sentiment analysis and displays it in the form of a bar chart
 
 Clears the text
 
-It analyzes the subjectivity of tweets and adds another column to it
-It analyzes the polarity of tweets and adds another column to them
-It analyzes the sentiments of tweets and adds another column to them
+It analyzes the subjectivity of tweets and adds another column to the table. 
+It also analyzes the polarity of tweets and adds another column to the table and it analyzes the sentiments of tweets and adds another column to the table.
 This repository contains all the files for end-to-end model building and deployment of the tweet analyzer web application
 
 Tweet_Analyzer.ipynb : Model build file
